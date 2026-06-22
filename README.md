@@ -1,5 +1,7 @@
 # LangGraph desde Cero: construye una Aplicación de IA Real
 
+![LangGraph desde Cero: construye una Aplicación de IA Real](https://github.com/macespinoza/langgraph-desde-cero-app-ia-real/blob/main/docs/imagenes/template.png?raw=true)
+
 Repositorio oficial del curso **LangGraph desde Cero**, una serie práctica en español donde aprenderemos los fundamentos de LangGraph construyendo paso a paso una aplicación de IA real.
 
 El objetivo de este repositorio no es solo mostrar código, sino ayudarte a entender cómo diseñar flujos de IA con una estructura clara: **estado, nodos, aristas, condiciones, memoria, intervención humana y una aplicación final funcional**.
