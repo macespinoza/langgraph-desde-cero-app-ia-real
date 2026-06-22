@@ -10,6 +10,13 @@ El objetivo de este repositorio no es solo mostrar código, sino ayudarte a ente
 
 ---
 
+## Playlist del curso
+
+📺 Sigue la serie completa en YouTube:  
+[LangGraph desde Cero: construye una Aplicación de IA Real](https://www.youtube.com/playlist?list=PL7XwdzTyl43k9p5o9EGJR1zALI4uUTKkz)
+
+---
+
 ## ¿Qué vas a aprender?
 
 En esta serie construiremos una base sólida para trabajar con LangGraph desde cero, cubriendo los conceptos principales de forma progresiva:
